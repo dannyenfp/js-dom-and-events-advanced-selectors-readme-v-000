@@ -18,5 +18,5 @@ function divSelector() {
 } 
 
 function firstListItem() { 
-  return $('ul');
+  return $('ul:first-child');
 } 
